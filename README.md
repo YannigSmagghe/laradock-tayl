@@ -17,3 +17,6 @@ docker -v<br>
 sudo  usermod -aG docker ${USER}<br>
 sudo  groups $USER<br>
 sudo docker-compose up -d<br>
+
+
+teset
