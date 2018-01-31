@@ -147,7 +147,7 @@ APACHE_PHP_UPSTREAM_TIMEOUT=60
 ### MYSQL ##############################################################################################################
 
 MYSQL_VERSION=8.0
-MYSQL_DATABASE=tayl-back
+MYSQL_DATABASE=taylback
 MYSQL_USER=root
 MYSQL_PASSWORD=0000
 MYSQL_PORT=3306
